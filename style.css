@@ -1,0 +1,45 @@
+*{
+    margin:3px;
+    padding:20px;
+    box-sizing:border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+    
+}
+body{
+    background-color: rgb(235, 230, 226);
+    padding: 3px;
+    margin: 5px;
+   
+    
+}
+div{
+    margin: 5px;
+    padding: 5px;
+    font-style: oblique;
+}
+button{
+    border: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgb(237, 239, 66);
+}
+input{
+    border: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: left;
+    font-size: 25px;
+    background-color: rgb(239, 234, 234);
+    border-radius: 5px;
+}
